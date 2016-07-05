@@ -1,0 +1,6 @@
+CIPSI
+=====
+
+Determinant based CIPSI.
+
+* Read in MO integrals from FCIDUMP file.
